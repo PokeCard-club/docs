@@ -1,1 +1,7 @@
-# 遊び方
+---
+actionLink: /guides/index
+---
+
+# あそびかた
+
+準備中
